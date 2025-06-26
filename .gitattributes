@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize to native line endings
+* text=auto
+
+# Force key file types to LF in the repo
+*.sh      text eol=lf
+*.gradle  text eol=lf
+*.kts     text eol=lf
+*.json    text eol=lf
+*.dart    text eol=lf
+*.lock    text eol=lf
