@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703235345618",
+    "project_id": "agro-vision-20c05",
+    "storage_bucket": "agro-vision-20c05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703235345618:android:572d53a18c4090043af10b",
+        "android_client_info": {
+          "package_name": "com.dawell.agrovision.agrovision_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7AtpM-FcVqNRt_rbocENk6o7CdAEUPNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
